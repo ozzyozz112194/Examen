@@ -1,0 +1,7 @@
+Hugo:-Hi guys how have you been 
+Paco:-Im good what about you luis
+Luis:-Im doing pretty fine , I'm just doing Profe Boites Exam
+Hugo:-Yeah me to did you guys already do the showing the chat history part ?
+Paco:-Yeah let me show the teacher
+Paco:-Who can show him the Log backup ?
+Luis:-I will , when I press option 3 in the menu the chat will be logged in a txt file with the following format username.txt
